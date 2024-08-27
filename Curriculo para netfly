@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt">
+<cabeça>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="largura=largura-do-dispositivo, escala-inicial=1.0">
+    <title>Currículo</title>
+    <link rel="folha de estilo" href="estilos.css">
+</cabeçalho>
+<corpo>
+    <div class="container">
+        <cabeçalho>
+            <h1>Melissa Rodrigues Palaguiar Bittencourt</h1>
+            <p>E-mail: 00001103437690sp@al.educacao.sp.gov.br| Telefone: (99) 99999-9999</p>
+        </cabeçalho>
+        <seção>
+            <h2>Objetivo</h2>
+            <p>Iniciar carreira de trabalho, na profissão de Desenvolvedor Web</p>
+        </seção>
+        <seção>
+            <h2>Experiência Profissional</h2>
+            <div class="trabalho">
+           
+               <p>Iniciante no mercado de trabalho, inexperiente</p>
+                <ul>
+                    
+          
+            </div>
+        </seção>
+        <seção>
+            <h2>Educação</h2>
+            <div class="educação">
+                <h3>Miguel Munhoz Filho</h3>
+                <p><strong>Curso:</strong> Técnico em desenvolvimento de sistemas</p>
+                <p><strong>Período:</strong> 02/2024 - 12/2025</p>
+            </div>
+        </seção>
+        <seção>
+            <h2>Habilidades</h2>
+            <ul class="habilidades">
+                <li>Prestativa </li>
+                <li>Facilidade em aprender </li>
+                <li>Disciplinada </li>
+                <li>Organizada </li>
+                <li>Evolução constante </li>
+            </ul>
+        </seção>
+        <seção>
+            <h2>Projetos</h2>
+            <div class="projetos">
+                <h3>Home de Floricultura</h3>
+                <p><strong>Descrição:</strong> Em colaboração com colegas do meu curso criamos uma pagina inicial(home)de um site sendo uma floricultura.</p>
+                <p><strong>Link:</strong> <a href="http://www.projeto.com">https://www.figma.com/design/dNcljnQLsmXwWgfs65E0E8/Floricultura?node-id=0-1&t=XEXXyMeQndccyjCN-1</a></p>
+            </div>
+        </seção>
+    </div>
+</corpo>
+</html>
